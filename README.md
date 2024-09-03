@@ -1,4 +1,4 @@
-git pull --no-ff# Arduino Hobby Projects
+# Arduino Hobby Projects
 
 This repository contains a collection of Arduino projects I created for learning and fun. Each project is organized into its own folder with a descriptive name. All projects have been simulated using Tinkercad, allowing for easy visualization and testing of the circuits before implementation on physical hardware.
 
