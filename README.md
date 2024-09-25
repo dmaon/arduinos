@@ -20,6 +20,10 @@ A simple project that demonstrates how to control an RGB LED to change colors. T
 
 This project simulates the operation of a traffic light using three RGB LEDs to represent the red, yellow, and green lights. It cycles through the different light patterns to mimic a real traffic light. The simulation in Tinkercad effectively illustrates the timing and sequencing of the traffic light operation.
 
+### [IR-Repeat-O-Matic](https://github.com/dmaon/IR-Repeat-O-Matic)
+
+Have you ever found yourself frustrated by a lost remote control or the need to juggle multiple remotes for your devices? Introducing the IR-Repeat-O-Matic, a fun and innovative project that allows you to copy and mimic the signals from any infrared remote control with just the press of a button!
+
 ## Getting Started
 
 To get started with these projects, you will need:
